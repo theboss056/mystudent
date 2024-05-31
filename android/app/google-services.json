@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405963550914",
+    "project_id": "MyStudents-adbdd",
+    "storage_bucket": "MyStudents-adbdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405963550914:android:a1fa473ca39da79f9f0b5b",
+        "android_client_info": {
+          "package_name": "com.example.MyStudents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqRQUx_MwhVWj55bJoVafQcOUbf2uE8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
